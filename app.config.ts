@@ -30,19 +30,19 @@ export default defineAppConfig({
       instagram: "",
 
       linkedin: {
-        icon: "teenyicons:linkedin-outline",
+        icon: "ph:linkedin-logo-bold",
         label: "LinkedIn",
         href: "https://www.linkedin.com/in/ludovik-allen-b7201714a/",
       },
 
-      medium: {
-        icon: "teenyicons:medium-outline",
-        label: "Medium",
-        href: "https://www.medium.com/@ludovikallen",
+      devto: {
+        icon: "ph:dev-to-logo-bold",
+        label: "DevTo",
+        href: "https://dev.to/ludovikallen",
       },
 
       github: {
-        icon: "teenyicons:github-outline",
+        icon: "ph:github-logo-bold",
         label: "GitHub",
         href: "https://github.com/ludovikallen",
       },
