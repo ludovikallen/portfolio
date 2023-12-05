@@ -46,6 +46,8 @@ export default defineAppConfig({
         label: "GitHub",
         href: "https://github.com/ludovikallen",
       },
+
+      medium: "",
     },
     form: {
       successMessage: "Message sent. Thank you!",
