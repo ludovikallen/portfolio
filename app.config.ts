@@ -11,7 +11,7 @@ export default defineAppConfig({
     header: {
       position: "right", // possible value are : | 'left' | 'center' | 'right'
       logo: {
-        path: "'/Ludo-logos_black.svg'", // path of the logo
+        path: "/Ludo-logos_black.svg", // path of the logo
         pathDark: "/Ludo-logos_white.svg", // path of the logo in dark mode, leave this empty if you want to use the same logo
         alt: "Ludo.", // alt of the logo
       },
